@@ -18,6 +18,10 @@ Preferences
 
 ### General
 
+#### Auto Import
+
+![Auto Import](artwork/general/auto_import.png)
+
 #### Code Folding
 
 ![Code Folding](artwork/general/code_folding.png)
