@@ -16,6 +16,12 @@ Installation
 Preferences
 --------
 
+### General
+
+#### Code Folding
+
+![Code Folding](artwork/general/code_folding.png)
+
 ### Code Style
 
 #### Java
