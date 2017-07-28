@@ -18,6 +18,12 @@ Preferences
 
 ### Code Style
 
+#### Java
+
+##### Tabs and Indents
+
+![Tabs and Indents](artwork/codestyles/java/tabs_and_indents.png)
+
 #### XML
 
 ##### Tabs and Indents
