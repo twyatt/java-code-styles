@@ -24,6 +24,8 @@ Preferences
 
 ### Code Style
 
+![Code Style](artwork/codestyles/code_style.png)
+
 #### Java
 
 ##### Tabs and Indents
