@@ -13,6 +13,22 @@ Installation
    project to the one you want.
 
 
+Preferences
+--------
+
+### Code Style
+
+#### XML
+
+##### Tabs and Indents
+
+![Tabs and Indents](artwork/codestyles/xml/tabs_and_indents.png)
+
+##### Android
+
+![Android](artwork/codestyles/xml/android.png)
+
+
 License
 -------
 
