@@ -53,6 +53,13 @@ IntelliJ IDEA code style settings for PAX's Java and Android projects.
 ![Android](artwork/codestyles/xml/android.png)
 
 
+## Inspections
+
+### Private member access
+
+![Private member access between outer and inner classes](artwork/inspections/private_member.png)
+
+
 ## License
 
 [![Public domain](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
