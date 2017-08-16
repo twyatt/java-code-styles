@@ -42,6 +42,10 @@ IntelliJ IDEA code style settings for PAX's Java and Android projects.
 
 ![Tabs and Indents](artwork/codestyles/java/tabs_and_indents.png)
 
+##### Blank Lines
+
+![Blank Lines](artwork/codestyles/java/blank_lines.png)
+
 #### XML
 
 ##### Tabs and Indents
