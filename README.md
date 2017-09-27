@@ -1,6 +1,6 @@
 # Java Code Styles
 
-IntelliJ IDEA code style settings for PAX's Java and Android projects.
+IntelliJ IDEA code style settings for PAX's Java, Kotlin and Android projects.
 
 
 ## Installation
@@ -35,6 +35,12 @@ IntelliJ IDEA code style settings for PAX's Java and Android projects.
 ### Code Style
 
 ![Code Style](artwork/codestyles/code_style.png)
+
+#### Kotlin
+
+##### Wrapping and Braces
+
+![Wrapping and Braces](artwork/codestyles/kotlin/wrapping_and_braces.png)
 
 #### Java
 
